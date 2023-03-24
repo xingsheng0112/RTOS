@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "TEST.C": "cpp",
+        "UCOS_II.C": "cpp",
+        "PC.C": "cpp"
+    }
+}
